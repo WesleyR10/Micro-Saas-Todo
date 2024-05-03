@@ -1,7 +1,11 @@
-
-![localhost_3000_app](https://github.com/WesleyR10/Micro-Saas-Todo/assets/115756312/86f9bbaf-019b-4656-9925-5b6d907cf1a9)
-
 # Micro-SaaS Todo App
+
+<div align="center">
+
+<img src="https://i.imgur.com/E6gEFt6.png" alt="Página Home do Micro-Saas">
+
+</div>
+
 
 ## Descrição
 O Micro-SaaS Todo App é uma aplicação Next.js projetada para gerenciamento de tarefas com recursos avançados como autenticação baseada em e-mail (Magic Link), integração com Stripe para pagamentos e uma interface responsiva. O objetivo é proporcionar uma experiência de usuário sem interrupções com capacidades eficientes de manipulação de tarefas.
